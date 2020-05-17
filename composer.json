@@ -1,0 +1,21 @@
+{
+    "name": "smater/algorithm",
+    "description": "常用排序算法",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+  "autoload": {
+        "psr-4": {
+            "Algorithm\\": "Algorithm/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smater",
+            "email": "001@chenframe.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
